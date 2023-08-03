@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/karollaszczkowski/nodedo/issues"
   },
-  "homepage": "https://github.com/karollaszczkowski/nodedo#readme"
+  "homepage": "https://github.com/karollaszczkowski/nodedo#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
