@@ -1,0 +1,19 @@
+{
+  "name": "nodedo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "starttests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karollaszczkowski/nodedo.git"
+  },
+  "author": "karollaszczkowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karollaszczkowski/nodedo/issues"
+  },
+  "homepage": "https://github.com/karollaszczkowski/nodedo#readme"
+}
